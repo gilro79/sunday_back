@@ -1,3 +1,3 @@
 module.exports = {
-  'dbURL': 'mongodb+srv://yaakov:1234@sunday.epfpu.mongodb.net/',
+  'dbURL': 'mongodb+srv://gilro:Dontstopmenow1@cluster0.mqrgp.mongodb.net/',
 }
